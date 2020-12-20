@@ -1,0 +1,181 @@
+body{
+    background-color:#3C3F51 ;
+}
+.podcast
+{
+    width: 50px;
+    height: 20px;
+    left: 34px;
+    top: 45px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 131.02%;
+    /* or 144px */
+    
+    letter-spacing: 0.025em;
+    
+    color: #ffffff41
+}
+
+.podcastsmall
+{
+    position: absolute;
+width: 25px;
+height: 15px;
+left: 20px;
+top: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+
+color:  #fafafa;
+}
+.line1{
+    position: absolute;
+width: 750px;
+height: .01px;
+left: 140px;
+top: 63px;
+border: 1px 
+solid #FFFFFF;
+}
+
+.rectangle1
+{
+    position: absolute;
+width: 280px;
+height: 232px;
+left: 570px;
+top: 450px;
+
+background: #E9A04A;
+border-radius: 27px;
+}
+
+.rectangle2
+{
+    position: absolute;
+    width: 280px;
+    height: 232px;
+    left: 560px;
+    top: 460px;;
+
+background: #1C6B97;
+border-radius: 28px;
+}
+
+.rectangle3
+{
+    position: absolute;
+width: 42px;
+height: 300px;
+left: 124px;
+top: 450px;
+border-radius: 28px;
+
+}
+
+.rectangle4
+{
+    position: absolute;
+width: 180px;
+height:50px;
+left: 335px;
+top: 431px;
+
+background: #203D69;
+border-radius: 17px;
+}
+
+.latestepisode
+{
+    position: absolute;
+width: 188px;
+height: 23px;
+left: 350px;
+top: 435px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 13px;
+line-height: 76.52%;
+/* identical to box height, or 23px */
+
+letter-spacing: -0.065em;
+
+color: #ffffff;
+
+}
+
+.rectangle5
+{
+    position: absolute;
+    width: 180px;
+height: 62px;
+left: 231px;
+top: 825px;
+
+background: #1C6B97;
+border-radius: 17px;
+}
+
+.knowmore
+{
+    position: absolute;
+width: 154px;
+height: 25px;
+left: 250px;
+top: 835px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 200;
+font-size: 13px;
+line-height: 82.52%;
+/* identical to box height, or 25px */
+
+letter-spacing: -0.06em;
+
+color: #FFFFFF;
+}
+
+.line2
+{
+    position: absolute;
+width: 832.02px;
+height: 0px;
+left: 662px;
+top: 898px;
+
+border: 3px solid #FFFFFF;
+}
+
+.hir
+{
+    position: absolute;
+width: 263px;
+height: 5px;
+left: 575px;
+top: 550px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16.02%;
+/* identical to box height, or 5px */
+
+letter-spacing: -0.065em;
+
+color: #FFFFFF;
+}
